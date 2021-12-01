@@ -1,9 +1,9 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: "Commonly used data types DO NOT include:",
-    choices: ["strings", "booleans", "alerts", "numbers"],
-    answer: "alerts"
+    title: "Who has the NFL career rushing yards record",
+    choices: ["Barry Sanders", "Betton Smatters", "Emmitt Smith", "Marshawn Lynch"],
+    answer: "Emmitt Smith"
   },
   {
     title: "The condition in an if / else statement is enclosed within ____.",
