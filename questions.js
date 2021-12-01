@@ -1,35 +1,35 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: "Who has the NFL career rushing yards record",
+    title: "Who has the NFL career rushing yards record?",
     choices: ["Barry Sanders", "Betton Smatters", "Emmitt Smith", "Marshawn Lynch"],
     answer: "Emmitt Smith"
   },
   {
-    title: "The condition in an if / else statement is enclosed within ____.",
-    choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-    answer: "parentheses"
+    title: "Which team blew a 28-3 lead in the super bowl?",
+    choices: ["Patriots", "Falcons", "Panthers", "Browns"],
+    answer: "Falcons"
   },
   {
-    title: "Arrays in JavaScript can be used to store ____.",
+    title: "Which quarterback threw more than 30 touchdowns and 30 interceptions in one season?",
     choices: [
-      "numbers and strings",
-      "other arrays",
-      "booleans",
-      "all of the above"
+      "Blake Bortles",
+      "Donovan McNabb",
+      "Jake Plummer",
+      "Jameis Winston"
     ],
-    answer: "all of the above"
+    answer: "Jameis Winston"
   },
   {
     title:
-      "String values must be enclosed within ____ when being assigned to variables.",
-    choices: ["commas", "curly brackets", "quotes", "parentheses"],
-    answer: "quotes"
+      "Which of these teams do not have a mascot?",
+    choices: ["Eagles", "Patriots", "Giants", "Broncos"],
+    answer: "Giants"
   },
   {
     title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-    answer: "console.log"
+      "The best quarterback in the history of the NFL is:",
+    choices: ["Roger Staubach", "Joe Montana", "John Elway", "Jim Kelly"],
+    answer: "John Elway"
   }
 ];
